@@ -1,2 +1,3 @@
-# kgb17.github.io
-Ini adalah laman situ web KGB 17
+# Kelompok Gemar Berpikir 17
+
+## INTEGRASI PELAJAR TEKNOLOGI
